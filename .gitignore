@@ -1,0 +1,15 @@
+# Entornos virtuales
+.venv/
+venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Configuración temporal de VSCode o PyCharm
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
